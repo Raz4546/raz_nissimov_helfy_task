@@ -27,3 +27,9 @@ npm start (runs on port 3000)
 - Backend - ~1 hour
 - Frontend (styling and design) - ~2.5 hours
 - Finishes - ~30 minutes
+
+## Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
