@@ -1,0 +1,20 @@
+.searchbar {
+  width: 600px;
+  max-width: 95vw;
+  margin: 0 auto 2rem;
+  padding-top: 1rem;
+}
+
+.searchbar-input {
+  width: 100%;
+  padding: 0.65rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+}
+
+.searchbar-input:focus {
+  outline: none;
+  border-color: #2e7d32;
+}
